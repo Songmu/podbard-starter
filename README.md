@@ -1,5 +1,7 @@
 # Your Podcast Site
 
+This is a template repository for creating a podcast site with [podbard](https://github.com/Songmu/podbard). After setting up a repository from this template, please do the following
+
 ## What to do next
 
 1. Congiguration
@@ -13,6 +15,10 @@
 4. Push, build and deploy to the GitHub Pages
     - After the push, the GitHub Actions will build the site and deploy it to the GitHub Pages
     - Check [.github/workflows/build-deploy-pages.yaml](./.github/workflows/build-deploy-pages.yaml) for specific settings
+
+## Setting for GitHub Pages
+
+To enable the GitHub Pages, you need to set the `gh-pages` branch as the source of the GitHub Pages in the repository settings. Setting -> Pages -> Build and deployment -> Branch.
 
 You can manage the podcast site with the `podbard` command for more customization.
 
