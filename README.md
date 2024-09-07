@@ -12,7 +12,7 @@
     - Hint: You can use the `podbard episode <your.mp3>` subcommand to create a new episode file
 4. Push, build and deploy to the GitHub Pages
     - After the push, the GitHub Actions will build the site and deploy it to the GitHub Pages
-    - Check [.github/workflow/build-deploy-pages.yaml](./.github/workflow/build-deploy-pages.yaml) for specific settings
+    - Check [.github/workflows/build-deploy-pages.yaml](./.github/workflows/build-deploy-pages.yaml) for specific settings
 
 You can manage the podcast site with the `podbard` command for more customization.
 
