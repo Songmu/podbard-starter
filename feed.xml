@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>podbard starter</title>
+    <link>https://junkyard.song.mu/podbard-starter/</link>
+    <description>podbard starter</description>
+    <category>Techlogy</category>
+    <generator>github.com/Songmu/podbard 0.0.10</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 26 Sep 2024 03:08:28 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Sep 2024 00:00:00 +0900</pubDate>
+    <image>
+      <url>https://junkyard.song.mu/podbard-starter/images/artwork.jpg</url>
+      <title>podbard starter</title>
+      <link>https://junkyard.song.mu/podbard-starter/</link>
+    </image>
+    <atom:link href="https://junkyard.song.mu/podbard-starter/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>Songmu</itunes:author>
+    <itunes:subtitle>podbard starter</itunes:subtitle>
+    <itunes:image href="https://junkyard.song.mu/podbard-starter/images/artwork.jpg"></itunes:image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Songmu</itunes:name>
+      <itunes:email>y.songmu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Techlogy"></itunes:category>
+    <item>
+      <guid>https://junkyard.song.mu/podbard-starter/episode/sample/</guid>
+      <title>sample episode</title>
+      <link>https://junkyard.song.mu/podbard-starter/episode/sample/</link>
+      <description>&lt;h1 id=&#34;sample-episode&#34;&gt;Sample Episode&lt;/h1&gt;&#xA;&lt;p&gt;This is a sample episode.&lt;/p&gt;&#xA;</description>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0900</pubDate>
+      <enclosure url="https://junkyard.song.mu/podbard-starter/audio/sample.mp3" length="23841" type="audio/mpeg"></enclosure>
+      <itunes:author>Songmu</itunes:author>
+      <itunes:image href="https://junkyard.song.mu/podbard-starter/images/artwork.jpg"></itunes:image>
+      <itunes:duration>5</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
