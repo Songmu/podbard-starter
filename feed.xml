@@ -4,10 +4,10 @@
     <title>podbard starter</title>
     <link>https://junkyard.song.mu/podbard-starter/</link>
     <description>podbard starter</description>
-    <category>Techlogy</category>
-    <generator>github.com/Songmu/podbard 0.0.10</generator>
+    <category>Technology</category>
+    <generator>github.com/Songmu/podbard 0.0.11</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Sep 2024 03:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 16:36:06 +0000</lastBuildDate>
     <pubDate>Sun, 01 Sep 2024 00:00:00 +0900</pubDate>
     <image>
       <url>https://junkyard.song.mu/podbard-starter/images/artwork.jpg</url>
@@ -23,7 +23,7 @@
       <itunes:name>Songmu</itunes:name>
       <itunes:email>y.songmu@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Techlogy"></itunes:category>
+    <itunes:category text="Technology"></itunes:category>
     <item>
       <guid>https://junkyard.song.mu/podbard-starter/episode/sample/</guid>
       <title>sample episode</title>
